@@ -34,5 +34,5 @@ To run this project locally, follow these steps:
 Once you've installed the dependencies, you can run the project:
 
 ```bash
-npm start
+npm starts
 
